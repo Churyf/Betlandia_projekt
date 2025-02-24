@@ -1,0 +1,52 @@
+zmenit design tlačítek ( border, stinovani)
+zmenit velikost a font nadpisu 
+zmenit pozici tlacitek
+
+zmenit to tak aby se to dalo vepsat rucne ta sazka 
+pridat ligu 
+sazka nesmi prekrocit vic nez user balance
+vypocitat i kurz pro remizu
+aby to pracovalo i s halířema
+zmenit velikost a barvy tlacitek
+vsazene tickety 
+aby se v tom dalo scrollovat
+vypocet pravdepodobnosti na vyhru
+pridat vic veci na ktere sazet
+plus a minus tak dat jim cervenou a zelenou barvu
+vylepsit to kdyz kliknu na simulovat tak graficky hezci to udelat
+aby se kurz vypisoval i kdyz to rozbalim u toho vyhra teamu
+tlacitko soupiska nema stinovani
+jine rozpolozeni log kdyz kliknu na soupisku?
+zmenit pozadi u soupisek
+smazat u tech nhl teamu ten popisek co je tam napsany
+např po patem vyhre zasebou at se objevi neaka hlaska
+pokud se napise vysledek tak at tam neni polcka ale dvojtecka
+uživatel si bude moc měnit tapety
+
+tmavy rezim/ svetly rezim
+pridat ukazatel kolik jsem vsadit
+zmenit barvy u betlandia
+kdyz dam simulovat tak at jsou ty číslovky obarvený 
+udelat tam takovy ten aktivni bar ze kdyz najedu mysi na tlacitko tak at se zbarvi jinou barvu aby to bylo pro uzivatele vic ok
+
+
+v databázy, kde se člověk zaregistruje nebo přihlásí.   ze začatku uvodni stranka kde se zaregistruju nebo prihlasim at pak mohu ukaladat uzivatelovo data a budeme ukaldat jeho nevišší dosazeene skore 
+největší dosažený cash
+síla týmu bude pohyblivá na základě výher nebo proher 
+Přdiat štítky ať vím co to je a co to děla
+schválně tak nepřidám scrolováni at ho mám pak udelat u maturity 
+nastavit at vyhry mohou klidne byt nula az 10 ale at je to hodne rare zejo
+jakmile zadam vetsi castku nez je kapital tak te to serve 
+dat tam kolik jsem celkove vyhrat za ten jeden den
+simulovat to pujde jen v moment kdy na to vsadim. jinak to pujde proklikavat mezi dny 
+
+
+
+pip install mysql-connector-python
+pip install pygame
+
+
+
+nastavit tam víc random výsledky těch zápasů 
+Přidat u přihlášení tlačítko zpět na plochu
+tlačítko zpět na přihlášení 
